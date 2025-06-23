@@ -1,6 +1,6 @@
 # LLM Group Think
 
-Experiments with multiple LLMs debating and voting on ideal societies.
+Experiments with multiple LLMs debating and voting on different topics.
 
 ## Setup
 
