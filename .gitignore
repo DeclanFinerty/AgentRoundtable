@@ -8,10 +8,13 @@ venv/
 .venv
 
 # Results data (maybe you want to track these, remove if so)
-debate_results/
+**/debate_results/
 
 # Environment
 .env
+env
+.venv
+venv
 
 # OS
 .DS_Store
